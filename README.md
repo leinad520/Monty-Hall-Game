@@ -1,7 +1,7 @@
 # Monty-Hall-Game
 Made with Python
 
-Monty Python Game, where you pick from one of three doors to get the prize.
+Monty Hall Game, where you pick from one of three doors to get the prize.
 
 There is a second py file here that simulates the game 10,000 times to prove by brute force that it is better to "switch" doors when given the option.
 
