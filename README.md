@@ -1,4 +1,4 @@
-# Monty-Python-Game
+# Monty-Hall-Game
 Made with Python
 
 Monty Python Game, where you pick from one of three doors to get the prize.
